@@ -1,8 +1,8 @@
-# Next.js Projects - 3 NextJS Projects
+# Google Clone Next.js Project
 
 ## Live Demo:
 
-- [Google Clone](link)
+- [Google Clone](https://google-clone-ajfm88.vercel.app/)
 
 ## Features:
 
